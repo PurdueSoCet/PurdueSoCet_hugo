@@ -11,7 +11,7 @@ Before working on the hugo site, be sure you have a forked version of:
 https://github.com/PurdueSoCet/purduesocet.github.io
 
 If you are happy with your changes, you should run the deploy.sh script with the following usage:
-./deploy.sh <path to your forked repository>
+`./deploy.sh <path to your forked repository>`
 
 This script will build hugo into your forked directory, commit changes, and push to your master branch.
 
