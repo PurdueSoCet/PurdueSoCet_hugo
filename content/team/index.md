@@ -6,7 +6,7 @@ weight: 40
 
 ## Faculty/Staff
 
-TODO: List faculty and staff
+Dr. Mark Johnson
 
 ## Current Students
 
